@@ -6,7 +6,7 @@
 - 타자의 다음시즌 OPS를 예측하는 수치예측 모델로, **Random Forest, XGBoost** 등을 활용하여 예측하였고 성능을 **WRMSE**로 평가했다.
 
 ## 1. 탐색적 데이터 분석
-- 활용한 데이터: 데이콘 KBO 타자OPS 프리시즌 자료, KBO 홈페이지 statiz
+- 활용한 데이터: 데이콘 KBO 타자OPS 프리시즌 자료, https://www.koreabaseball.com/Record/Player/HitterBasic/BasicOld.aspx
 ### 1.1. 데이터 클렌징
 ### 1.2. 데이터 시각화
 ### 1.3. 상관관계 분석
