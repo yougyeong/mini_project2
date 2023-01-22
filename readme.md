@@ -17,7 +17,8 @@
 
 ## 1. 탐색적 데이터 분석
 - Selenium을 사용한 KBO 데이터 수집.ipynb
-- 
+- correlations between pre-season and regular season.ipynb
+- 2023 KBO OPS PREDICTION.ipynb
 ### 1.1. 데이터 클렌징
 ### 1.2. 데이터 시각화
 ### 1.3. 상관관계 분석
